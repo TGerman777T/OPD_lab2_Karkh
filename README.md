@@ -1,1 +1,10 @@
 Карх Г.С., ИВТ-222, вариант 8. Лабораторная работа №2. Цель работы: Изучить принципы работы ботов, библиотеки, и возможности. Задание: Игра кто хочет стать миллионером? (5 вопросов).
+![image](https://github.com/TGerman777T/OPD_lab2_Karkh/assets/47473290/8cdd7dcb-6b15-446e-8f1c-572851439439)
+![image](https://github.com/TGerman777T/OPD_lab2_Karkh/assets/47473290/5d6b30e0-1032-4560-903c-c0d03e0d11d6)
+![image](https://github.com/TGerman777T/OPD_lab2_Karkh/assets/47473290/d4ac11e6-4729-4bda-a6b2-d5fbeb798b7e)
+![image](https://github.com/TGerman777T/OPD_lab2_Karkh/assets/47473290/fbecb8fb-efb6-4ec7-9dc6-26b243e5450a)
+![image](https://github.com/TGerman777T/OPD_lab2_Karkh/assets/47473290/84585e9c-922f-40fd-9db1-e77498d8c02d)
+![image](https://github.com/TGerman777T/OPD_lab2_Karkh/assets/47473290/f12a6fde-19c3-448f-9682-4d66f6f569f5)
+![image](https://github.com/TGerman777T/OPD_lab2_Karkh/assets/47473290/89fadf3b-f070-41a5-8373-9d80c3086c57)
+![image](https://github.com/TGerman777T/OPD_lab2_Karkh/assets/47473290/bde655cf-9342-4b71-9f97-feda97b3eb9c)
+![image](https://github.com/TGerman777T/OPD_lab2_Karkh/assets/47473290/51524e88-a1d1-44e0-ab8b-46b0490a065c)
